@@ -76,7 +76,8 @@ b)   对运行过程进行仿真，这里直接模拟了M/M/n模型，具体实�
 
 c)   仿真结束后将结果输出到日志和GUI上。图像绘制按照固定时间步长推进方法，以每分钟为间隔刷新图像。绘制了当前排队人数的折线图，同时刷新当前时间、平均等待时间、平均等待客户数、平均服务器利用率等值。
 
-对应GUI效果图：![](https://github.com/MondayCha/MMN-Queue-GUI/blob/master/README.assets/Snipaste_2020-11-04_15-37-38.png)
+对应GUI效果图：
+![image](https://github.com/MondayCha/MMN-Queue-GUI/blob/master/README.assets/Snipaste_2020-11-04_15-37-38.png)
 
 视频演示地址：
 
